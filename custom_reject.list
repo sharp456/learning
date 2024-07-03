@@ -1,0 +1,28 @@
+DOMAIN,adservice.google.com.hk
+DOMAIN,adservice.google.com
+DOMAIN,tpc.googlesyndication.com
+DOMAIN,adservice.google.cn
+DOMAIN-SUFFIX,clarity.ms
+DOMAIN-SUFFIX,doubleclick.net
+DOMAIN,kunyu.csdn.net
+DOMAIN,safebrowsing.google.com
+DOMAIN-SUFFIX,safeframe.googlesyndication.com
+DOMAIN,safebrowsingohttpgateway.googleapis.com
+DOMAIN-SUFFIX,umengcloud.com
+DOMAIN,aspect-upush.umeng.com
+DOMAIN-SUFFIX,safebrowsing.apple
+DOMAIN-SUFFIX,google-analytics.com
+# 欺诈性网站警告
+# https://developers.google.com/safe-browsing/
+DOMAIN,safebrowsing.googleapis.com
+DOMAIN,safebrowsing.googleapis-cn.com
+# https://anquan.baidu.com/article/281
+DOMAIN,lookup.api.bsb.baidu.com
+# https://opensource.apple.com/source/WebKit2/WebKit2-7607.2.6.1.1/UIProcess/Cocoa/SafeBrowsingWarningCocoa.mm.auto.html
+DOMAIN-SUFFIX,urlsec.qq.com
+DOMAIN,ulogs.umeng.com
+DOMAIN,googleads.g.doubleclick.net
+DOMAIN,adsmind.gdtimg.com
+DOMAIN,ii.gdt.qq.com
+DOMAIN,v.gdt.qq.com
+DOMAIN,wetype.weixin.qq.com
