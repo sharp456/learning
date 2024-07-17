@@ -1,3 +1,4 @@
+DOMAIN-SUFFIX,zz.bdstatic.com
 DOMAIN,adservice.google.com.hk
 DOMAIN,adservice.google.com
 DOMAIN,tpc.googlesyndication.com
@@ -96,8 +97,6 @@ DOMAIN-KEYWORD, pglstatp-toutiao
 DOMAIN-KEYWORD, video-cn.snssdk.com
 
 # ======= J ======= #
-# 建设银行
-DOMAIN-KEYWORD, adv.ccb.com
 # 京东
 # JavDB
 DOMAIN, api.liquidlink.cn
