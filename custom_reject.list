@@ -130,8 +130,8 @@ DOMAIN, rprain.log.mgtv.com
 DOMAIN, vip.bz.mgtv.com
 DOMAIN-SUFFIX, da.mgtv.com
 # 美团
-DOMAIN, maplocatesdksnapshot.d.meituan.net
-DOMAIN, metrics-picture.d.meituan.net
+#DOMAIN, maplocatesdksnapshot.d.meituan.net
+#DOMAIN, metrics-picture.d.meituan.net
 # 美颜相机
 DOMAIN, aaid.uyunad.com
 DOMAIN, adui.tg.meitu.com
