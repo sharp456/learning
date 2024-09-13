@@ -1,5 +1,5 @@
 payload:
-- DOMAIN,dlswbr.baidu.com
+  - DOMAIN,dlswbr.baidu.com
   - DOMAIN,zz.bdstatic.com
   - DOMAIN,adservice.google.com.hk
   - DOMAIN,adservice.google.com
